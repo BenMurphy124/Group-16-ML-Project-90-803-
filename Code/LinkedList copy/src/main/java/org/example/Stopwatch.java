@@ -1,3 +1,5 @@
+package org.example;
+
 /**
  * Stopwatch class to be used as a timer.
  */
