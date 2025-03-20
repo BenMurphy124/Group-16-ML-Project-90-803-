@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="456e07f8-3d40-4b05-a492-5edab3235cf6" name="更改" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="456e07f8-3d40-4b05-a492-5edab3235cf6" name="更改" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +170,31 @@
       <option name="project" value="LOCAL" />
       <updated>1742497241417</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1742501403596</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1742501403596</updated>
+    </task>
+    <task id="LOCAL-00016" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1742501901968</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1742501901968</updated>
+    </task>
+    <task id="LOCAL-00017" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1742501905502</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1742501905502</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
