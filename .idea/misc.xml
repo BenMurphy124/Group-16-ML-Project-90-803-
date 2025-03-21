@@ -7,8 +7,11 @@
         <option value="$PROJECT_DIR$/Code/LinkedList/pom.xml" />
         <option value="$PROJECT_DIR$/Code/ArrayList/pom.xml" />
         <option value="$PROJECT_DIR$/Lab/lab2/lab2/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab/lab2/pom.xml" />
+        <option value="$PROJECT_DIR$/Code/Stack/pom.xml" />
+        <option value="$PROJECT_DIR$/Code/Queue/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" project-jdk-name="temurin-11" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="21" project-jdk-type="JavaSDK" />
 </project>

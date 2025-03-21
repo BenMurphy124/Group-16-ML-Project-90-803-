@@ -7,11 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ArrayList" />
+        <module name="Queue" />
         <module name="LinkedList" />
+        <module name="lab2" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="lab2" target="21" />
-    </bytecodeTargetLevel>
   </component>
 </project>

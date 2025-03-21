@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="456e07f8-3d40-4b05-a492-5edab3235cf6" name="更改" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/Code/ArrayList/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/ArrayList/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/LinkedList copy/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/Stack/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/lab2/src/main/java/org/example/LinkedListLab.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/lab2/src/main/java/org/example/LinkedListLab.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +54,7 @@
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "应用程序.Driver.executor": "Run",
+    "应用程序.LinkedListLab.executor": "Run",
     "应用程序.Module5Driver.executor": "Run"
   }
 }]]></component>
@@ -349,7 +354,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742505401580</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1742519368778</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1742519368778</updated>
+    </task>
+    <task id="LOCAL-00032" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1742519457921</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1742519457921</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
