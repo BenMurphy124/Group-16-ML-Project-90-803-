@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="456e07f8-3d40-4b05-a492-5edab3235cf6" name="更改" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/Code/Stack/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/Queue/Queue.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/src/main/java/org/example/LinkedListLab.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/lab2/src/main/java/org/example/LinkedListLab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Stack/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/org/example/ArrayStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/org/example/Reverser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/org/example/StackInterface.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +36,9 @@
     &quot;accountId&quot;: &quot;ea447004-6fe4-4566-86b1-c8e21fb3095f&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -46,6 +52,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/alexjiang/Library/Mobile Documents/com~apple~CloudDocs/CMU/course/Data Structure",
@@ -53,6 +60,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "应用程序.ArrayStack.executor": "Run",
     "应用程序.Driver.executor": "Run",
     "应用程序.LinkedListLab.executor": "Run",
     "应用程序.Module5Driver.executor": "Run"
@@ -370,7 +378,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742519457921</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1742520654708</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1742520654708</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

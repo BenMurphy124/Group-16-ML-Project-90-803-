@@ -1,5 +1,3 @@
-package org.example;
-
 /**
  * 17683 Data Structures for Application Programmers.
  * Module 6 Stack
