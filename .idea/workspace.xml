@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="456e07f8-3d40-4b05-a492-5edab3235cf6" name="更改" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/Code/Queue/src/test/java/ArrayQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/Queue/src/test/java/QueueInterfaceTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="456e07f8-3d40-4b05-a492-5edab3235cf6" name="更改" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -426,7 +423,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742587546372</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1742604478995</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1742604478995</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
