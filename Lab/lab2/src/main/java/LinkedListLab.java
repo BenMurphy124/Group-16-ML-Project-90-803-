@@ -1,4 +1,3 @@
-package org.example;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
@@ -8,10 +7,11 @@ import java.util.NoSuchElementException;
  * Lab 2 LinkedList (Singly) Operation Implementation.
  * @param <AnyType> data type to insert into list.
  *
- * Andrew ID:
- * @author 
+ * Andrew ID: zhixuanj
+ * @author Zhixuan Jiang
  */
 public class LinkedListLab<AnyType> implements Iterable<AnyType> {
+
     /**
      * head node variable.
      */
@@ -49,9 +49,31 @@ public class LinkedListLab<AnyType> implements Iterable<AnyType> {
      * @param k kth position to the last.
      * @return Object that is located at kth to the last
      */
+
     public AnyType kthToLast(int k) {
         // TODO write your implementation here
+        Node<AnyType> walker = head;
+        Node<AnyType> runner = head;
+
+        if (k < 1) {
+            return null;
+        }
+
+        for (int i = 0; i < k; i++) {
+            if (runner == null) {
+            return null;
+            }
+            runner = runner.next;
+        }
+
+        while (runner != null) {
+            walker = walker.next;
+            runner = runner.next;
+        }
+
+        return walker.data;
     }
+
 
     /**
      * Returns a string representation.
