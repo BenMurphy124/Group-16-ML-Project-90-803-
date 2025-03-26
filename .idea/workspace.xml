@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="456e07f8-3d40-4b05-a492-5edab3235cf6" name="更改" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/HW/hw2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/SimpleSorting/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw2/src/main/java/HW2Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw2/src/main/java/HW2Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw2/src/main/java/Josephus.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw2/src/main/java/Josephus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,31 +52,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/alexjiang/Library/Mobile Documents/com~apple~CloudDocs/CMU/course/Data Structure",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "应用程序.ArrayStack.executor": "Run",
-    "应用程序.ArrayStackTest.executor": "Run",
-    "应用程序.Driver.executor": "Run",
-    "应用程序.LinkedListLab.executor": "Run",
-    "应用程序.Main.executor": "Run",
-    "应用程序.Module5Driver.executor": "Run",
-    "应用程序.ReverserTest.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/alexjiang/Library/Mobile Documents/com~apple~CloudDocs/CMU/course/Data Structure&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;应用程序.ArrayStack.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArrayStackTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Driver.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.HW2Driver.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.LinkedListLab.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Module5Driver.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ReverserTest.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="应用程序.HW2Driver">
     <configuration name="ArrayStackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayStackTest" />
       <module name="Stack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW2Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW2Driver" />
+      <module name="HW2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -160,6 +169,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.HW2Driver" />
         <item itemvalue="应用程序.Main" />
         <item itemvalue="应用程序.LinkedListLab" />
         <item itemvalue="应用程序.ReverserTest" />
@@ -488,7 +498,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742833079939</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1742851942629</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1742851942629</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

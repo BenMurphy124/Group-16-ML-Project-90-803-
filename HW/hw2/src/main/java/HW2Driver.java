@@ -15,8 +15,8 @@ public class HW2Driver {
      */
     public static void main(String[] args) {
         // You can change size and rotation values for your testing
-        int size = 100000;
-        int rotation = 30000;
+        int size = 40;
+        int rotation = 1;
 
         Josephus game = new Josephus();
         Stopwatch timer1 = new Stopwatch();

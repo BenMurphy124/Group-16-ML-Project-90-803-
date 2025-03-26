@@ -1,10 +1,13 @@
+import java.util.ArrayDeque;
+import java.util.LinkedList;
+
 /**
  * 17-683 Data Structures for Application Programmers.
  * Homework Assignment 2 Solve Josephus problem using different data structures
  * and different algorithms and compare running times.
  *
- * Andrew ID:
- * @author 
+ * Andrew ID: zhixuanj
+ * @author Zhixuan Jiang
  */
 public class Josephus {
 
@@ -15,8 +18,34 @@ public class Josephus {
      * @param rotation Elimination order in the circle. The value has to be greater than 0
      * @return The position value of the survivor
      */
-    public int playWithAD(int size, int rotation) {
-        // TODO your implementation here
+    public int playWithAD(final int size, final int rotation) {
+    // TODO your implementation here
+
+        if (size <= 0) {
+            throw new IllegalArgumentException("Size of array needs to be greater than 0");
+        }
+        if (rotation <= 0) {
+            throw new IllegalArgumentException("Rotation needs to be greater than 0");
+        }
+
+        ArrayDeque<Integer> aD = new ArrayDeque<>(size);
+
+        for (int i = 1; i <= size; i++) {
+            aD.add(i);
+        }
+
+        if (aD.size() == 1) {
+            return aD.peek();
+        }
+
+        while (aD.size() != 1) {
+            for (int j = 0; j < rotation - 1; j++) {
+                aD.addLast(aD.removeFirst());
+            }
+            aD.removeFirst();
+        }
+        return aD.peek();
+
     }
 
     /**
@@ -26,8 +55,32 @@ public class Josephus {
      * @param rotation Elimination order in the circle. The value has to be greater than 0
      * @return The position value of the survivor
      */
-    public int playWithLL(int size, int rotation) {
+    public int playWithLL(final int size, final int rotation) {
         // TODO your implementation here
+
+        if (size <= 0) {
+            throw new IllegalArgumentException("Size of array needs to be greater than 0");
+        }
+        if (rotation <= 0) {
+            throw new IllegalArgumentException("Rotation needs to be greater than 0");
+        }
+
+        LinkedList<Integer> lL = new LinkedList<>();
+
+        for (int i = 1; i <= size; i++) {
+            lL.add(i);
+        }
+        if (lL.size() == 1) {
+            return lL.peek();
+        }
+
+        while (lL.size() != 1) {
+            for (int j = 0; j < rotation - 1; j++) {
+                lL.addLast(lL.removeFirst());
+            }
+            lL.removeFirst();
+        }
+        return lL.peek();
     }
 
     /**
@@ -44,8 +97,36 @@ public class Josephus {
      * @param rotation Elimination order in the circle. The value has to be greater than 0
      * @return The position value of the survivor
      */
-    public int playWithLLAt(int size, int rotation) {
-        // TODO your implementation here
+
+
+    public int playWithLLAt(final int size, final int rotation) {
+
+    if (size <= 0) {
+        throw new IllegalArgumentException("Size of array needs to be greater than 0");
     }
+    if (rotation <= 0) {
+        throw new IllegalArgumentException("Rotation needs to be greater than 0");
+    }
+
+    LinkedList<Integer> llat = new LinkedList<>();
+
+    for (int i = 1; i <= size; i++) {
+        llat.add(i);
+    }
+
+    if (llat.size() == 1) {
+        return llat.get(0);
+    }
+
+    int curIndex = 0;
+
+    while (llat.size() != 1) {
+        curIndex = (curIndex + rotation - 1) % llat.size();
+        llat.remove(curIndex);
+    }
+
+    return llat.get(0);
+}
+
 
 }

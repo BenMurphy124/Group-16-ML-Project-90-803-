@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ArrayList" />
         <module name="HW2" />
+        <module name="lab2" />
+        <module name="ArrayList" />
+        <module name="SimpleSorting" />
         <module name="Queue" />
         <module name="LinkedList" />
-        <module name="lab2" />
         <module name="Stack" />
       </profile>
     </annotationProcessing>
