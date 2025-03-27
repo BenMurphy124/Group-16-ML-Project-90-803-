@@ -15,7 +15,6 @@
         <module name="Recursion" />
         <module name="Queue" />
         <module name="LinkedList" />
-        <module name="Stack" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

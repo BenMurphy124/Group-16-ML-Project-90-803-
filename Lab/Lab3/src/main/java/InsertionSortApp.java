@@ -3,8 +3,8 @@
  * Lab 3 Simple Sorting and Stability.
  * Insertion Sort Implementation.
  *
- * Andrew ID:
- * @author
+ * Andrew ID: zhixuanj
+ * @author Zhixuan Jiang
  */
 public class InsertionSortApp {
     /**
@@ -55,6 +55,29 @@ public class InsertionSortApp {
      * @param key key param value should be either "last" or "zip"
      */
     public static void insertionSort(Employee[] list, String key) {
-        // TODO implement insertion sort here
+
+        if (key.equals("last")) {
+            for (int out = 1; out < list.length; out++) {
+                Employee temp = list[out];
+                int in = out;
+                while (in > 0 && list[in - 1].getLastName().compareToIgnoreCase(temp.getLastName()) > 0) {
+                    list[in] = list[in - 1];
+                    in--;
+                }
+                list[in] = temp;
+            }
+        }
+
+        if (key.equals("zip")) {
+            for (int out = 1; out < list.length; out++) {
+                Employee temp = list[out];
+                int in = out;
+                while (in > 0 && list[in - 1].getZipCode() > temp.getZipCode()) {
+                    list[in] = list[in - 1];
+                    in--;
+                }
+                list[in] = temp;
+            }
+        }
     }
 }

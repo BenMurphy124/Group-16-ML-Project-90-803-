@@ -37,7 +37,7 @@ public class Module9Driver {
         Collections.sort(cards);
 
         // uses compare method implemented in Comparator class
-        //Collections.sort(cards, new CompareBySuit());
+        Collections.sort(cards, new CompareBySuit());
 
         for (Card card : cards) {
             System.out.println(card);

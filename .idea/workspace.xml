@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="456e07f8-3d40-4b05-a492-5edab3235cf6" name="更改" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/Code/Comparable_Comparator/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/Recursion/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/SimpleSorting/src/main/java/SSTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/SimpleSorting/src/main/java/SSTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,8 +40,22 @@
     &quot;accountId&quot;: &quot;ea447004-6fe4-4566-86b1-c8e21fb3095f&quot;
   }
 }</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -63,21 +79,25 @@
     &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
     &quot;应用程序.ArrayStack.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.ArrayStackTest.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.Driver.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.HW2Driver.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.InsertionSortApp.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.LinkedListLab.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.Module5Driver.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ReverserTest.executor&quot;: &quot;Run&quot;
+    &quot;应用程序.Module9Driver.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ReverserTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.SelectionSortApp.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.SimpleSortDemo.executor&quot;: &quot;Run&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="ArrayStackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayStackTest" />
-      <module name="Stack" />
+  <component name="RunManager" selected="应用程序.Driver">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -169,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Driver" />
         <item itemvalue="应用程序.HW2Driver" />
         <item itemvalue="应用程序.Main" />
         <item itemvalue="应用程序.LinkedListLab" />
         <item itemvalue="应用程序.ReverserTest" />
-        <item itemvalue="应用程序.ArrayStackTest" />
       </list>
     </recent_temporary>
   </component>
@@ -530,7 +550,19 @@
       <option name="project" value="LOCAL" />
       <updated>1743094225629</updated>
     </task>
+<<<<<<< HEAD
     <option name="localTasksCounter" value="44" />
+=======
+    <task id="LOCAL-00044" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1743115182007</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1743115182007</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
+>>>>>>> d446877 (initial commit)
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -554,5 +586,16 @@
     <MESSAGE value="add module 6&amp;7 notes" />
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Code/Comparable_Comparator/src/main/java/CompareBySuit.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

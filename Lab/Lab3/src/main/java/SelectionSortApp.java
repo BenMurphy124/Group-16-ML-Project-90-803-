@@ -3,8 +3,8 @@
  * Lab 3 Simple Sorting and Stability.
  * Selection Sort Implementation.
  *
- * Andrew ID:
- * @author
+ * Andrew ID: zhixuanj
+ * @author Zhixuan Jiang
  */
 public class SelectionSortApp {
     /**
@@ -54,7 +54,31 @@ public class SelectionSortApp {
      * @param key key param value should be either "last" or "zip"
      */
     public static void selectionSort(Employee[] list, String key) {
-        // TODO implement selection sort here
+
+        if (key.equals("last")) {
+            for (int out = 0; out < list.length - 1; out++) {
+                int min = out;
+                for (int in = out + 1; in < list.length; in++) {
+                    if (list[in].getLastName().compareToIgnoreCase(list[min].getLastName()) < 0) {
+                        min = in;
+                    }
+                }
+                swap(list, min, out);
+            }
+        }
+
+        if (key.equals("zip")) {
+            for (int out = 0; out < list.length - 1; out++) {
+                int min = out;
+                for (int in = out + 1; in < list.length; in++) {
+                    if (list[in].getZipCode() < list[min].getZipCode()) {
+                        min = in;
+                    }
+                }
+                swap(list, min, out);
+            }
+        }
+
     }
 
     /**

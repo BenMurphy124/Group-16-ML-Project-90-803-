@@ -20,10 +20,10 @@ public class SimpleSortDemo {
 
         Random rand = new Random();
         // Case 1
-        for (int i = 0; i < size; i++) a[i] = rand.nextInt();
+//        for (int i = 0; i < size; i++) a[i] = rand.nextInt();
 
         // Case 2
-        //for (int i = 0; i < size; i++) a[i] = i;
+        for (int i = 0; i < size; i++) a[i] = i;
 
         System.arraycopy(a, 0, b, 0, a.length);
         System.arraycopy(a, 0, c, 0, a.length);
@@ -58,7 +58,7 @@ public class SimpleSortDemo {
         for (int out = data.length - 1; out >= 1; out--) {
             // move forward from the beginning
             // bubble up the largest value to the right
-            for (int in = 0; in < data.length - 1; in++) {
+            for (int in = 0; in < out; in++) {
                 if (data[in] > data[in + 1]) {
                     swap(data, in, in + 1);
                 }
