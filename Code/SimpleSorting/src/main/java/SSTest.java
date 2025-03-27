@@ -34,6 +34,16 @@ public class SSTest {
         }
     }
 
+    /**
+     * insertionSort.
+     * */
+
+    public static void insertionSort(int[] data) {
+        for (int out = ; out < ; out++) {
+
+        }
+    }
+
 
 
 

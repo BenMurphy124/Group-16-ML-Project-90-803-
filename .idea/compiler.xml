@@ -11,6 +11,8 @@
         <module name="lab2" />
         <module name="ArrayList" />
         <module name="SimpleSorting" />
+        <module name="Comparable_Comparator" />
+        <module name="Recursion" />
         <module name="Queue" />
         <module name="LinkedList" />
         <module name="Stack" />
