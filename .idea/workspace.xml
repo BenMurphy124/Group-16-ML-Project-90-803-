@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="456e07f8-3d40-4b05-a492-5edab3235cf6" name="更改" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/Code/SimpleSorting/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/SimpleSorting/src/main/java/SSTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/hw2/src/main/java/HW2Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw2/src/main/java/HW2Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/hw2/src/main/java/Josephus.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw2/src/main/java/Josephus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +72,7 @@
     &quot;应用程序.ReverserTest.executor&quot;: &quot;Run&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.HW2Driver">
+  <component name="RunManager">
     <configuration name="ArrayStackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayStackTest" />
       <module name="Stack" />
@@ -506,7 +504,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742851942629</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1743004417722</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1743004417722</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
