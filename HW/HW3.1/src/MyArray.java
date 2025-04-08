@@ -119,6 +119,7 @@ public class MyArray {
         }
     }
 
+
     /**
      * Simple private helper method to validate a word.
      * @param text text to check
@@ -128,3 +129,4 @@ public class MyArray {
         return text.matches("[a-zA-Z]+");
     }
 }
+
