@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="456e07f8-3d40-4b05-a492-5edab3235cf6" name="更改" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/HW/HW3.1/HW3.1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/Stack/qodana.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW3.1/src/SortedLinkedList1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/SimpleSorting/src/main/java/SSTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/HW3/HW3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/HW3/src/HW3Driver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/HW3/src/Homework3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/HW3/src/MyArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/HW3/src/MyListInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/HW3/src/prideprejudice.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/hw1/HW1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw1/HW1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab2/target/classes/org/example/Lab2_LinkedList.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW3.1/prod/HW3Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW3.1/prod/HW3Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW3.1/prod/SortedLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW3.1/prod/SortedLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW3.1/prod/SortedLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW3.1/prod/SortedLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW3.1/src/HW3Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW3.1/src/HW3Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW3.1/src/SortedLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW3.1/src/SortedLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +105,12 @@
     &quot;应用程序.SimpleSortDemo.executor&quot;: &quot;Run&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="/private/var/folders/2m/hdq8ynqs2zz7qr7k_swx62dh0000gn/T/qodana_output/qodana.sarif.json" reportGuid="3fcbfd35-2d46-441d-9a75-c74c85fdbb75" reportId="Data Structure/qodana/2025-04-07" />
+    </option>
+  </component>
+  <component name="RunManager" selected="应用程序.Driver">
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Driver" />
       <module name="Recursion" />
@@ -598,7 +599,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744036066342</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1744077463636</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1744077463636</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

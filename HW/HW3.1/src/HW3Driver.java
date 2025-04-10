@@ -19,7 +19,7 @@ public class HW3Driver {
         MyArray words = new MyArray(10);
         Scanner scanner = null;
         try {
-            scanner = new Scanner(new File("prideprejudice.txt"), "latin1");
+            scanner = new Scanner(new File("/Users/alexjiang/Library/Mobile Documents/com~apple~CloudDocs/CMU/course/Data Structure/HW/HW3.1/prideprejudice.txt"), "latin1");
             while (scanner.hasNextLine()) {
                 String line = scanner.nextLine();
                 String[] wordsFromText = line.split("\\W");

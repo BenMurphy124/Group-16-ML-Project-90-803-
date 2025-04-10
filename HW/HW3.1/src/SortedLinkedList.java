@@ -1,21 +1,43 @@
+/**
+ * @author Zhixuan Jiang
+ * Andrew ID: zhixuanj
+ */
 public class SortedLinkedList implements MyListInterface {
 
+    /**
+     * reference to the head node.
+     */
     private Node<String> head;
+    /**
+     * initial SortedLinkedList size.
+     */
+    private int size = 0;
 
-    public int size = 0;
-
-
+    /**
+     *  construct an empty list.
+     */
     public SortedLinkedList() {
         head = null;
     }
 
-    public SortedLinkedList(String[] array) {
-        this(); // 调用默认构造器，初始化head为null
+    /**
+     * construct a list with elements in array.
+     * @param array the string array
+     */
+    public SortedLinkedList(final String[] array) {
+        this();
         if (array != null) {
-            for (String s : array) {
-                add(s); // 利用已有的add方法，保证升序+去重
-            }
+            addElementsRecur(array, 0);
         }
+    }
+
+    private void addElementsRecur(final String[] array, final int index) {
+        if (index >= array.length) {
+            return;
+        }
+        add(array[index]);
+
+        addElementsRecur(array, index + 1);
     }
 
 
@@ -24,28 +46,19 @@ public class SortedLinkedList implements MyListInterface {
         if (value == null || value.isEmpty()) {
             return;
         }
-        Node<String> newNode = new Node<>(value, null);
+        head = addRec(head, value);
+    }
 
-        if (head == null || head.word.compareToIgnoreCase(value) > 0) {
-            newNode.next = head;
-            head = newNode;
+    private Node<String> addRec(Node<String> curr, String value) {
+        if (curr == null || curr.word.compareToIgnoreCase(value) > 0) {
             size++;
-            return;
+            return new Node<>(value, curr);
         }
-
-        Node<String> temp = head;
-        while (temp.next != null && temp.next.word.compareToIgnoreCase(value) < 0) {
-            temp = temp.next;
+        if (curr.word.compareToIgnoreCase(value) == 0) {
+            return curr;
         }
-
-        // avoid duplicate
-        if (temp.word.equalsIgnoreCase(value) || (temp.next != null && temp.next.word.equalsIgnoreCase(value))) {
-            return;
-        }
-
-        newNode.next = temp.next;
-        temp.next = newNode;
-        size++;
+        curr.next = addRec(curr.next, value);
+        return curr;
     }
 
     @Override
@@ -56,29 +69,36 @@ public class SortedLinkedList implements MyListInterface {
     @Override
     public void display() {
         StringBuilder result = new StringBuilder("[");
-
-        Node<String> temp = head;
-        while (temp != null) {
-            result.append(temp.word);
-            if (temp.next != null) {
-                result.append(",");
-            }
-            temp = temp.next;
-        }
+        displayRec(head, result);
         result.append("]");
         System.out.println(result);
     }
 
+    private void displayRec(Node<String> curr, StringBuilder result) {
+
+        if (curr == null) {
+            return;
+        }
+        result.append(curr.word);
+        if (curr.next != null) {
+            result.append(", ");
+            displayRec(curr.next, result);
+        }
+    }
+
     @Override
     public boolean contains(String key) {
-        Node<String> temp = head;
-        for (int i = 0; i < size; i++) {
-            if(temp.word.equalsIgnoreCase(key)) {
-                return true;
-            }
-            temp = temp.next;
+        return containRecursion(head, key);
+    }
+
+    private boolean containRecursion(Node<String> cur, String key) {
+        if (cur == null) {
+            return false;
         }
-        return false;
+        if (cur.word.equalsIgnoreCase(key)) {
+            return true;
+        }
+        return containRecursion(cur.next, key);
     }
 
 
@@ -104,24 +124,45 @@ public class SortedLinkedList implements MyListInterface {
     @Override
     public String removeAt(int index) {
         if (index < 0 || index >= size) {
-            return null;
+            throw new RuntimeException("Invalid index value");
         }
         if (index == 0) {
             return removeFirst();
         }
 
-        Node<String> prev = head;
-        for (int i = 0; i < index - 1; i++) {
-            prev = prev.next;
+        Node<String> prev = findPrevRecur(head, index - 1);
+        if (prev == null || prev.next == null) {
+            throw new RuntimeException("Invalid index value");
         }
+
         Node<String> toRemove = prev.next;
         prev.next = toRemove.next;
         size--;
         return toRemove.word;
     }
 
+    private Node<String> findPrevRecur(Node<String> node, int index) {
+        if (index == 0) {
+            return node;
+        }
+        if (node == null || node.next == null) {
+            return null;
+        }
+        return findPrevRecur(node.next, index - 1);
+    }
+
+    /**
+     * Static nested class for Node.
+     * @param <String> the data type is String
+     */
     private static class Node<String> {
+        /**
+         * word in the node.
+         */
         private String word;
+        /**
+         * reference to the next node.
+         */
         private Node<String> next;
 
         Node(String newWord, Node<String> newNext) {
