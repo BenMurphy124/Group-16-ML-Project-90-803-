@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HW/HW1/HW1.iml" filepath="$PROJECT_DIR$/HW/HW1/HW1.iml" />
       <module fileurl="file://$PROJECT_DIR$/HW/HW3.1/HW3.1.iml" filepath="$PROJECT_DIR$/HW/HW3.1/HW3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW/HW4/HW4.iml" filepath="$PROJECT_DIR$/HW/HW4/HW4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Code/HashTable/HashTable.iml" filepath="$PROJECT_DIR$/Code/HashTable/HashTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab/Lab4/Lab4.iml" filepath="$PROJECT_DIR$/Lab/Lab4/Lab4.iml" />
     </modules>

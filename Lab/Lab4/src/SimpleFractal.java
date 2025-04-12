@@ -3,10 +3,10 @@
  * Lab 4 Number of Collisions Comparison and
  * Drawing a simple fractal of n squares with recursion.
  *
- * Andrew ID:
- * @author
+ * Andrew ID: zhixuanj
+ * @author Zhixuan Jiang
  */
-public class SimpleFractal {
+public class SimpleFractal{
 
     /**
      * Test program to draw n squares.
@@ -34,6 +34,12 @@ public class SimpleFractal {
          * Note: call filledSquare static method in StdDraw class
          * which draws a filled square of side length 2*r, centered on (x, y).
          */
+
+        if (n == 0 || x + length > 1 || y + length > 1) {
+            return;
+        }
+        StdDraw.filledSquare(x + length/2, y + length/2, length/2);
+        fractal(n - 1, x + length, y + length, length/2);
     }
 
 }
