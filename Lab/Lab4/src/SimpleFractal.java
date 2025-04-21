@@ -29,7 +29,6 @@ public class SimpleFractal{
      * @param length side length of a square
      */
     public static void fractal(int n, double x, double y, double length) {
-        // TODO implement this method
         /*
          * Note: call filledSquare static method in StdDraw class
          * which draws a filled square of side length 2*r, centered on (x, y).

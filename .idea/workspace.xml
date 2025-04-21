@@ -5,11 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="456e07f8-3d40-4b05-a492-5edab3235cf6" name="更改" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/AdvancedSorting/AdvancedSorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/AdvancedSorting/src/MSPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/AdvancedSorting/src/QSPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/BST/BST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/BST/src/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/HashSet-HashMap/HashSet-HashMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/HashSet-HashMap/src/HashMapPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/HashSet-HashMap/src/HashSetPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW4/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW5/HW5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW5/src/Similarity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/h5.1/h5.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab/Lab4/src/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab/Lab5/Lab5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Comparable_Comparator/target/classes/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Comparable_Comparator/target/classes/Card.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Comparable_Comparator/target/classes/CompareBySuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Comparable_Comparator/target/classes/CompareBySuit.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Comparable_Comparator/target/classes/CompareBySuitRank.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Comparable_Comparator/target/classes/CompareBySuitRank.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Comparable_Comparator/target/classes/Module9Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Comparable_Comparator/target/classes/Module9Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Comparable_Comparator/target/classes/desktop.ini" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Queue/target/classes/org/example/ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Queue/target/classes/org/example/ArrayQueue.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Queue/target/classes/org/example/QueueInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Queue/target/classes/org/example/QueueInterface.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Queue/target/test-classes/ArrayQueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Queue/target/test-classes/ArrayQueueTest.class" afterDir="false" />
@@ -17,7 +35,9 @@
       <change beforePath="$PROJECT_DIR$/Code/Recursion/target/classes/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Recursion/target/classes/Driver.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Recursion/target/classes/Module10Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Recursion/target/classes/Module10Driver.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/SimpleSorting/target/classes/SimpleSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/SimpleSorting/target/classes/SimpleSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW4/src/MyHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW4/src/MyHashTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW/hw2/target/classes/HW2Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw2/target/classes/HW2Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/hw2/target/classes/Homework2.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HW/hw2/target/classes/Josephus.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw2/target/classes/Josephus.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW/hw2/target/classes/Stopwatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/HW/hw2/target/classes/Stopwatch.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab/Lab3/target/classes/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/Lab3/target/classes/Employee.class" afterDir="false" />
@@ -25,7 +45,13 @@
       <change beforePath="$PROJECT_DIR$/Lab/Lab3/target/classes/SelectionSortApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/Lab3/target/classes/SelectionSortApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab/Lab3/target/classes/SimpleSortDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/Lab3/target/classes/SimpleSortDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab/Lab3/target/classes/Stopwatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/Lab3/target/classes/Stopwatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/Lab3/target/classes/lab3.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab/Lab4/src/SimpleFractal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/Lab4/src/SimpleFractal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/Lab5/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/Lab5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/Lab5/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/Lab5/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/lab2/target/classes/Lab2_LinkedList.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab/lab2/target/classes/LinkedListLab$LinkedListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/lab2/target/classes/LinkedListLab$LinkedListIterator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab/lab2/target/classes/LinkedListLab$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/lab2/target/classes/LinkedListLab$Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab/lab2/target/classes/LinkedListLab.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/lab2/target/classes/LinkedListLab.class" afterDir="false" />
@@ -110,66 +136,66 @@
     "应用程序.ArrayStackTest.executor": "Run",
     "应用程序.CollisionComparison.executor": "Run",
     "应用程序.Driver.executor": "Run",
+    "应用程序.HTTest.executor": "Run",
     "应用程序.HW1Driver.executor": "Run",
     "应用程序.HW2Driver.executor": "Run",
     "应用程序.HW3Driver.executor": "Run",
+    "应用程序.HashMapDemo.executor": "Run",
+    "应用程序.HashMapPrac.executor": "Run",
+    "应用程序.HashSetDemo.executor": "Run",
+    "应用程序.HashSetPrac.executor": "Run",
     "应用程序.InsertionSortApp.executor": "Run",
     "应用程序.LinkedListLab.executor": "Run",
     "应用程序.Main.executor": "Run",
+    "应用程序.MergeSort.executor": "Run",
     "应用程序.Module5Driver.executor": "Run",
     "应用程序.Module9Driver.executor": "Run",
+    "应用程序.QuickSort.executor": "Run",
+    "应用程序.QuickSortImproved.executor": "Run",
     "应用程序.ReverserTest.executor": "Run",
     "应用程序.SelectionSortApp.executor": "Run",
+    "应用程序.SimilarityTest1.executor": "Run",
+    "应用程序.SimilarityTest2.executor": "Run",
+    "应用程序.SimilarityTest3.executor": "Run",
     "应用程序.SimpleFractal.executor": "Run",
-    "应用程序.SimpleSortDemo.executor": "Run"
+    "应用程序.SimpleSortDemo.executor": "Run",
+    "应用程序.test.executor": "Run",
+    "应用程序.test1.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Driver" />
-      <module name="Recursion" />
+  <component name="RunManager" selected="应用程序.SimilarityTest2">
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSort" />
+      <module name="Lab5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW2Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW2Driver" />
-      <module name="HW2" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSort" />
+      <module name="Lab5" />
+      <option name="VM_PARAMETERS" value="-Xss4m" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW3Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="21" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="HW3Driver" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW/HW3.1" />
+    <configuration name="SimilarityTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimilarityTest1" />
+      <module name="HW5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListLab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.LinkedListLab" />
-      <module name="lab2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="SimilarityTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimilarityTest2" />
+      <module name="HW5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="lab2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="SimilarityTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimilarityTest3" />
+      <module name="HW5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -220,19 +246,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="应用程序.Driver" />
-      <item itemvalue="应用程序.HW2Driver" />
-      <item itemvalue="应用程序.HW3Driver" />
-      <item itemvalue="应用程序.LinkedListLab" />
-      <item itemvalue="应用程序.Main" />
+      <item itemvalue="应用程序.SimilarityTest3" />
+      <item itemvalue="应用程序.SimilarityTest1" />
+      <item itemvalue="应用程序.SimilarityTest2" />
+      <item itemvalue="应用程序.MergeSort" />
+      <item itemvalue="应用程序.QuickSort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Driver" />
-        <item itemvalue="应用程序.HW3Driver" />
-        <item itemvalue="应用程序.HW2Driver" />
-        <item itemvalue="应用程序.Main" />
-        <item itemvalue="应用程序.LinkedListLab" />
+        <item itemvalue="应用程序.SimilarityTest2" />
+        <item itemvalue="应用程序.SimilarityTest1" />
+        <item itemvalue="应用程序.SimilarityTest3" />
+        <item itemvalue="应用程序.MergeSort" />
+        <item itemvalue="应用程序.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -629,7 +655,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744249632962</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1744434283051</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1744434283052</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -662,6 +696,10 @@
           <line>17</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

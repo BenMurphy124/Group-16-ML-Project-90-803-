@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Code/AdvancedSorting/AdvancedSorting.iml" filepath="$PROJECT_DIR$/Code/AdvancedSorting/AdvancedSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code/BST/BST.iml" filepath="$PROJECT_DIR$/Code/BST/BST.iml" />
       <module fileurl="file://$PROJECT_DIR$/HW/HW1/HW1.iml" filepath="$PROJECT_DIR$/HW/HW1/HW1.iml" />
       <module fileurl="file://$PROJECT_DIR$/HW/HW3.1/HW3.1.iml" filepath="$PROJECT_DIR$/HW/HW3.1/HW3.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/HW/HW4/HW4.iml" filepath="$PROJECT_DIR$/HW/HW4/HW4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW/HW5/HW5.iml" filepath="$PROJECT_DIR$/HW/HW5/HW5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code/HashSet-HashMap/HashSet-HashMap.iml" filepath="$PROJECT_DIR$/Code/HashSet-HashMap/HashSet-HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Code/HashTable/HashTable.iml" filepath="$PROJECT_DIR$/Code/HashTable/HashTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab/Lab4/Lab4.iml" filepath="$PROJECT_DIR$/Lab/Lab4/Lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab/Lab5/Lab5.iml" filepath="$PROJECT_DIR$/Lab/Lab5/Lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW/h5.1/h5.1.iml" filepath="$PROJECT_DIR$/HW/h5.1/h5.1.iml" />
     </modules>
   </component>
 </project>
