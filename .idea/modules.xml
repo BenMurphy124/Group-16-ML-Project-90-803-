@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lab/Lab4/Lab4.iml" filepath="$PROJECT_DIR$/Lab/Lab4/Lab4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab/Lab5/Lab5.iml" filepath="$PROJECT_DIR$/Lab/Lab5/Lab5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab/Lab6/Lab6.iml" filepath="$PROJECT_DIR$/Lab/Lab6/Lab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code/Stack/Stack.iml" filepath="$PROJECT_DIR$/Code/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Code/TreeMap_TreeSet/TreeMap_TreeSet.iml" filepath="$PROJECT_DIR$/Code/TreeMap_TreeSet/TreeMap_TreeSet.iml" />
     </modules>
   </component>

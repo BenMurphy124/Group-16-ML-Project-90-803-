@@ -5,15 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="456e07f8-3d40-4b05-a492-5edab3235cf6" name="更改" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/Code/TreeMap_TreeSet/TreeMap_TreeSet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/TreeMap_TreeSet/src/TreeMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/TreeMap_TreeSet/src/TreeSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW/h5.1/h5.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/Stack/src/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/Stack/src/Reverser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/Stack/src/StackInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW6/src/homework6.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/AlphaFreq.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/BST$BSTIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/BST$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/BST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/BSTInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/Frequency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/HW6Driver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/IgnoreCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/Index.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/Word.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/homework6.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/Stack/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/Stack/Reverser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/Stack/StackException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/Stack/StackInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/BST/src/BSTtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/BST/src/BSTtest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structure/production/BST/BSTtest$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structure/production/BST/BSTtest$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structure/production/BST/BSTtest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structure/production/BST/BSTtest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/qodana.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/ArrayStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/ArrayStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/Reverser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/Reverser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/StackException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/StackInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/StackInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/src/test/java/AS1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/src/test/java/ArrayStackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/src/test/java/ReverserTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/src/test/java/ReverserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Stack/src/test/java/StackInterfaceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW6/src/AlphaFreq.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW6/src/AlphaFreq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW6/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW6/src/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW6/src/Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW6/src/Frequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW6/src/HW6Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW6/src/HW6Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW6/src/Homework6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW6/src/Homework6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW6/src/IgnoreCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW6/src/IgnoreCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW6/src/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW6/src/Index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW6/src/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW6/src/Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/Homework6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/Homework6.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +86,10 @@
     &quot;accountId&quot;: &quot;ea447004-6fe4-4566-86b1-c8e21fb3095f&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Iterable.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Iterator.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -80,6 +120,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;OverrideImplement.generate.javadoc&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -99,6 +140,7 @@
     &quot;应用程序.HW1Driver.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.HW2Driver.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.HW3Driver.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.HW6Driver.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.HashMapDemo.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.HashMapPrac.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.HashSetDemo.executor&quot;: &quot;Run&quot;,
@@ -122,7 +164,7 @@
     &quot;应用程序.test1.executor&quot;: &quot;Run&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.BSTComparison">
+  <component name="RunManager" selected="应用程序.HW6Driver">
     <configuration name="BSTComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BSTComparison" />
       <module name="Lab6" />
@@ -130,9 +172,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSort" />
-      <module name="Lab5" />
+    <configuration name="HW6Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW6Driver" />
+      <module name="HW6" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -204,19 +246,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="应用程序.HW6Driver" />
       <item itemvalue="应用程序.BSTComparison" />
       <item itemvalue="应用程序.SimilarityTest3" />
       <item itemvalue="应用程序.SimilarityTest1" />
       <item itemvalue="应用程序.SimilarityTest2" />
-      <item itemvalue="应用程序.MergeSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.HW6Driver" />
         <item itemvalue="应用程序.BSTComparison" />
         <item itemvalue="应用程序.SimilarityTest2" />
         <item itemvalue="应用程序.SimilarityTest1" />
         <item itemvalue="应用程序.SimilarityTest3" />
-        <item itemvalue="应用程序.MergeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -228,30 +270,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742442793919</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add module 4&amp;5 notes">
-      <option name="closed" value="true" />
-      <created>1742477822595</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1742477822595</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add module 6&amp;7 notes">
-      <option name="closed" value="true" />
-      <created>1742478100602</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1742478100602</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add module 6&amp;7 notes">
-      <option name="closed" value="true" />
-      <created>1742492398066</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1742492398066</updated>
     </task>
     <task id="LOCAL-00005" summary="initial commit">
       <option name="closed" value="true" />
@@ -621,7 +639,31 @@
       <option name="project" value="LOCAL" />
       <updated>1745277222425</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1745948376820</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1745948376820</updated>
+    </task>
+    <task id="LOCAL-00052" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1745948410821</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1745948410821</updated>
+    </task>
+    <task id="LOCAL-00053" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1745948419738</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1745948419738</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

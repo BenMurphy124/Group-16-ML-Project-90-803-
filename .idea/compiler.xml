@@ -19,6 +19,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="a" target="21" />
+      <module name="Stack" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
