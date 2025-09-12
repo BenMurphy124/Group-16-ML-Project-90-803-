@@ -35,6 +35,22 @@ public class SimpleSorting {
         }
     }
 
+    public static void bSort(int[] data) {
+        for (int i = data.length - 1; i > 0; i--) {
+            for (int j = 0; j < i; j++) {
+                if (data[j] > data[j + 1]) {
+                    swap(data, j, j + 1);
+                }
+            }
+        }
+    }
+
+    public static void swap1(int[] data, int index1, int index2) {
+        int temp = data[index1];
+        data[index1] = data[index2];
+        data[index2] = temp;
+    }
+
     /**
      * Selection sort runs in O(n^2) too.
      * Focus on the smallest value!
@@ -59,6 +75,21 @@ public class SimpleSorting {
             }
         }
     }
+
+    public static void selSort(int[] data) {
+        for (int i = 0; i < data.length - 1; i++) {
+            int min = i;
+            for (int j = i + 1; j < data.length; j++) {
+                if (data[j] > data[min]) {
+                    min = j;
+                }
+            }
+            if (min != i) {
+                swap1(data, i, min);
+            }
+        }
+    }
+
 
     /**
      * Insertion sort runs in O(n^2) in the worst case.
@@ -87,6 +118,20 @@ public class SimpleSorting {
             // finally, INSERT the tmp value into the right position of the sorted section
             if (out != in) {
                 data[in] = tmp;
+            }
+        }
+    }
+
+    public static void insertionSort1(int[] data) {
+        for (int i = 1; i < data.length; i++) {
+            int tmp = data[i];
+            int j = i;
+            while (j > 0 && data[j - 1] >= tmp) {
+                data[j] = data[j - 1];
+                j--;
+            }
+            if (j != i) {
+                data[j] = tmp;
             }
         }
     }

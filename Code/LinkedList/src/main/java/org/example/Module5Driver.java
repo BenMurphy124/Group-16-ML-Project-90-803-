@@ -43,10 +43,10 @@ public class Module5Driver {
         linkedList.insertBefore("data", "go");
         linkedList.remove("the");
 
-        Iterator<String> itr2 = linkedList.iterator();
 
-        while (itr2.hasNext()) {
-            System.out.println(itr2.next());
+
+        while (itr.hasNext()) {
+            System.out.println(itr.next());
         }
     }
 

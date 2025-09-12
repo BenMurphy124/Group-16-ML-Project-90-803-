@@ -223,7 +223,7 @@ public class BST implements BSTInterface {
         inOrderHelper(root, sb);
         System.out.println(sb);
     }
-    
+
     /**
      * Recursive helper method to traverse the tree.
      * @param toVisit node to visit
@@ -232,7 +232,8 @@ public class BST implements BSTInterface {
     private void inOrderHelper(Node toVisit, StringBuilder sb) {
         if (toVisit != null) {
             inOrderHelper(toVisit.left, sb);
-            sb.append("[").append(toVisit.key).append(",").append(toVisit.value).append("]");
+            sb.append("[").append(toVisit.key).append(",").
+                    append(toVisit.value).append("]");
             inOrderHelper(toVisit.right, sb);
         }
     }

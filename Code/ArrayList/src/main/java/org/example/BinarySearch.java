@@ -39,6 +39,50 @@ public class BinarySearch {
         }
     }
 
+    public static int BS(int[] data, int key) {
+        int lb = 0;
+        int ub = data.length - 1;
+        int mid = lb + (ub - lb) / 2;
+
+        while (true) {
+            if (key == data[mid]) {
+                return mid;
+            }
+
+            if (data[mid] < key) {
+                lb = mid + 1;
+            }else {
+                ub = mid - 1;
+            }
+        }
+
+    }
+
+    //recursion method
+    public static int BSRec(int[] data, int key) {
+        return BSRecHelper(data, key, 0, data.length - 1);
+    }
+
+    private static int BSRecHelper(int[] data, int key, int lb, int ub) {
+        if (lb > ub) {
+            return -1;
+        }
+
+        int mid = lb + (ub - lb) / 2;
+
+        if (key == data[mid]) {
+            return mid;
+        }
+
+        if (key < data[mid]) {
+            return BSRecHelper(data, key, lb, mid - 1);
+        }else {
+            return BSRecHelper(data, key, mid + 1, ub);
+        }
+    }
+
+
+
     /**
      * Simple test program to run binary search algorithm.
      * @param args arguments

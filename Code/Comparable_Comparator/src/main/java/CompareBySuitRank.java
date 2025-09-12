@@ -22,4 +22,6 @@ public class CompareBySuitRank implements Comparator<Card> {
         return Integer.compare(x.getRank(), y.getRank());
     }
 
+
+
 }

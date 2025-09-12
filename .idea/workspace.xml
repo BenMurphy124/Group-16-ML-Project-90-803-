@@ -5,50 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="456e07f8-3d40-4b05-a492-5edab3235cf6" name="更改" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/Code/Stack/src/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/Stack/src/Reverser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/Stack/src/StackInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW/HW6/src/homework6.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/AlphaFreq.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/BST$BSTIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/BST$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/BST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/BSTInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/Frequency.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/HW6Driver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/IgnoreCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/Index.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/Word.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/homework6.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/Stack/ArrayStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/Stack/Reverser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/Stack/StackException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Data Structure/production/Stack/StackInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/LinkedList/src/main/java/org/example/SLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/LinkedList/src/main/java/org/example/ll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/Queue/src/main/java/org/example/AQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/Stack/src/AS1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Stack/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Stack/qodana.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/ArrayStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/ArrayStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/Reverser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/Reverser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/StackException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/StackInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Stack/src/main/java/StackInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Stack/src/test/java/AS1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Stack/src/test/java/ArrayStackTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Stack/src/test/java/ReverserTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Stack/src/test/java/ReverserTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Stack/src/test/java/StackInterfaceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/HW6/src/AlphaFreq.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW6/src/AlphaFreq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/HW6/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW6/src/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/HW6/src/Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW6/src/Frequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/HW6/src/HW6Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW6/src/HW6Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/AdvancedSorting/src/MSPrac.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/AdvancedSorting/src/MSPrac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/ArrayList/src/main/java/org/example/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/ArrayList/src/main/java/org/example/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/BST/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/BST/src/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/BST/src/BSTtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/BST/src/BSTtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Comparable_Comparator/src/main/java/CompareBySuitRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Comparable_Comparator/src/main/java/CompareBySuitRank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/HashTable/src/HT.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/HashTable/src/HT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/LinkedList/src/main/java/org/example/Module5Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/LinkedList/src/main/java/org/example/Module5Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Recursion/src/main/java/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Recursion/src/main/java/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Recursion/target/classes/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Recursion/target/classes/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/SimpleSorting/src/main/java/SimpleSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/SimpleSorting/src/main/java/SimpleSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/SimpleSorting/target/classes/SimpleSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/SimpleSorting/target/classes/SimpleSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/TreeMap_TreeSet/src/TreeMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TreeMap_TreeSet/src/TreeMapDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW/HW6/src/Homework6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW6/src/Homework6.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/HW6/src/IgnoreCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW6/src/IgnoreCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/HW6/src/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW6/src/Index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/HW6/src/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW6/src/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/Homework6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structure/production/HW6/Homework6.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +57,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/alexj11324/DataStructure.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/BenMurphy124/Group-16-ML-Project-90-803-.git&quot;,
     &quot;accountId&quot;: &quot;ea447004-6fe4-4566-86b1-c8e21fb3095f&quot;
   }
 }</component>
@@ -118,60 +93,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;OverrideImplement.generate.javadoc&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/alexjiang/Library/Mobile Documents/com~apple~CloudDocs/CMU/course/Data Structure&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;,
-    &quot;应用程序.ArrayStack.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrayStackTest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.BSTComparison.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.CollisionComparison.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Driver.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.HTTest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.HW1Driver.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.HW2Driver.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.HW3Driver.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.HW6Driver.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.HashMapDemo.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.HashMapPrac.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.HashSetDemo.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.HashSetPrac.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.InsertionSortApp.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.LinkedListLab.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.MergeSort.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Module5Driver.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Module9Driver.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.QuickSort.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.QuickSortImproved.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ReverserTest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SelectionSortApp.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SimilarityTest1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SimilarityTest2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SimilarityTest3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SimpleFractal.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SimpleSortDemo.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.test.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.test1.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/alexjiang/Library/Mobile Documents/com~apple~CloudDocs/CMU/course/Data Structure",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "应用程序.ArrayStack.executor": "Run",
+    "应用程序.ArrayStackTest.executor": "Run",
+    "应用程序.BSTComparison.executor": "Run",
+    "应用程序.CollisionComparison.executor": "Run",
+    "应用程序.Driver.executor": "Run",
+    "应用程序.HTTest.executor": "Run",
+    "应用程序.HW1Driver.executor": "Run",
+    "应用程序.HW2Driver.executor": "Run",
+    "应用程序.HW3Driver.executor": "Run",
+    "应用程序.HW6Driver.executor": "Run",
+    "应用程序.HashMapDemo.executor": "Run",
+    "应用程序.HashMapPrac.executor": "Run",
+    "应用程序.HashSetDemo.executor": "Run",
+    "应用程序.HashSetPrac.executor": "Run",
+    "应用程序.InsertionSortApp.executor": "Run",
+    "应用程序.LinkedListLab.executor": "Run",
+    "应用程序.Main.executor": "Run",
+    "应用程序.MergeSort.executor": "Run",
+    "应用程序.Module5Driver.executor": "Run",
+    "应用程序.Module9Driver.executor": "Run",
+    "应用程序.QuickSort.executor": "Run",
+    "应用程序.QuickSortImproved.executor": "Run",
+    "应用程序.ReverserTest.executor": "Run",
+    "应用程序.SelectionSortApp.executor": "Run",
+    "应用程序.SimilarityTest1.executor": "Run",
+    "应用程序.SimilarityTest2.executor": "Run",
+    "应用程序.SimilarityTest3.executor": "Run",
+    "应用程序.SimpleFractal.executor": "Run",
+    "应用程序.SimpleSortDemo.executor": "Run",
+    "应用程序.TreeMapDemo.executor": "Run",
+    "应用程序.test.executor": "Run",
+    "应用程序.test1.executor": "Run"
   }
-}</component>
-  <component name="RunManager" selected="应用程序.HW6Driver">
-    <configuration name="BSTComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BSTComparison" />
-      <module name="Lab6" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="应用程序.TreeMapDemo">
     <configuration name="HW6Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW6Driver" />
       <module name="HW6" />
@@ -179,23 +147,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimilarityTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimilarityTest1" />
-      <module name="HW5" />
+    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapDemo" />
+      <module name="HashSet-HashMap" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimilarityTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimilarityTest2" />
-      <module name="HW5" />
+    <configuration name="HashSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashSetDemo" />
+      <module name="HashSet-HashMap" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimilarityTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimilarityTest3" />
-      <module name="HW5" />
+    <configuration name="Module5Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Module5Driver" />
+      <module name="LinkedList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeMapDemo" />
+      <module name="TreeMap_TreeSet" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -246,19 +227,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="应用程序.HashMapDemo" />
+      <item itemvalue="应用程序.HashSetDemo" />
+      <item itemvalue="应用程序.TreeMapDemo" />
+      <item itemvalue="应用程序.Module5Driver" />
       <item itemvalue="应用程序.HW6Driver" />
-      <item itemvalue="应用程序.BSTComparison" />
-      <item itemvalue="应用程序.SimilarityTest3" />
-      <item itemvalue="应用程序.SimilarityTest1" />
-      <item itemvalue="应用程序.SimilarityTest2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.TreeMapDemo" />
+        <item itemvalue="应用程序.HashMapDemo" />
+        <item itemvalue="应用程序.HashSetDemo" />
+        <item itemvalue="应用程序.Module5Driver" />
         <item itemvalue="应用程序.HW6Driver" />
-        <item itemvalue="应用程序.BSTComparison" />
-        <item itemvalue="应用程序.SimilarityTest2" />
-        <item itemvalue="应用程序.SimilarityTest1" />
-        <item itemvalue="应用程序.SimilarityTest3" />
       </list>
     </recent_temporary>
   </component>
@@ -270,14 +251,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742442793919</updated>
-    </task>
-    <task id="LOCAL-00005" summary="initial commit">
-      <option name="closed" value="true" />
-      <created>1742494847984</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1742494847984</updated>
     </task>
     <task id="LOCAL-00006" summary="initial commit">
       <option name="closed" value="true" />
@@ -663,7 +636,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745948419738</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1746110225056</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1746110225056</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

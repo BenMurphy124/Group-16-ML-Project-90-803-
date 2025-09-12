@@ -48,7 +48,7 @@ public class Driver {
             return -1;
         }
 
-        int mid = (ub + lb) / 2;
+        int mid = lb + (ub - lb) / 2;
 
         if (data[mid] == key) {
             return mid;
@@ -56,11 +56,11 @@ public class Driver {
 
         if (data[mid] < key) {
             return find(data, key, mid + 1, ub);
-        }else {
-            return find(data, key, lb, mid - 1);
         }
+        return find(data, key, lb, mid - 1);
 
      }
+
 
 
 
